@@ -11,7 +11,7 @@
 Almost everything on the Internet involves DNS resolution. If DNS is slow, the
 performance of your application is going to suffer.
 
-In this project, we write our own DNS resolver, and compare its performance with other existing DNS resolvers. It also includes a “dig” tool and a “DNSSEC” resolver.
+In this project, we write our own DNS resolver, and compare its performance with other existing DNS resolvers. It also includes a *dig tool* and a *DNSSEC resolver*.
 
 ## Libraries used
 * [dnspython](https://pypi.org/project/dnspython/)
@@ -40,6 +40,8 @@ $ python dns-resolver.py [domain-name] [request-type]
 $ python dnssec-resolver.py [domain-name]
 
 ```
+* For a detailed explanation of the DNSSEC resolver, check [this]().
+
 
 ## Performance
 Check out the performance comparison of this DNS resolver against the local DNS resolver and Google's public DNS [here]()!
