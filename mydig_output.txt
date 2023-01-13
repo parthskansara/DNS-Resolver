@@ -1,0 +1,81 @@
+input:
+python FCN-A.py google.com MX
+
+output:
+Question Section
+google.com IN MX
+Answer Section
+google.com IN MX 10 smtp.google.com.
+Query time: 73.24576377868652 ms
+WHEN: Tue Sep 20 21:34:06 2022
+MSG SIZE received: 88
+
+-------------------------------------------
+
+input:
+python FCN-A.py google.com A 
+
+output:
+Question Section
+google.com IN A
+Answer Section
+google.com IN A 142.250.80.46
+Query time: 84.90228652954102 ms
+WHEN: Tue Sep 20 21:42:26 2022
+MSG SIZE received: 88
+
+-------------------------------------------
+
+input:
+python FCN-A.py google.com NS
+
+output:
+Question Section
+google.com IN NS
+Answer Section
+google.com IN NS ns4.google.com.
+Query time: 66.06340408325195 ms
+WHEN: Tue Sep 20 21:43:23 2022
+MSG SIZE received: 88
+
+-------------------------------------------
+
+input:
+python FCN-A.py www.hotmail.com A
+
+output:
+Question Section
+www.hotmail.com IN A
+Answer Section
+www.hotmail.com IN A 204.79.197.212
+Query time: 229.76040840148926 ms
+WHEN: Tue Sep 20 21:44:31 2022
+MSG SIZE received: 88
+
+--------------------------------------------
+
+input:
+python FCN-A.py yahoo.com MX
+
+output:
+Question Section
+yahoo.com IN MX
+Answer Section
+yahoo.com IN MX 1 mta5.am0.yahoodns.net.
+Query time: 80.82127571105957 ms
+WHEN: Tue Sep 20 21:45:17 2022
+MSG SIZE received: 88
+
+----------------------------------------------
+
+input:
+python FCN-A.py google.co.jp A
+
+output:
+Question Section
+google.co.jp IN A
+Answer Section
+google.co.jp IN A 216.239.32.10
+Query time: 80.82127571105957 ms
+WHEN: Tue Sep 20 21:45:17 2022
+MSG SIZE received: 88
