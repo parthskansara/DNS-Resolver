@@ -46,7 +46,7 @@ $ python dnssec-resolver.py [domain-name]
 ## Performance
 Check out the performance comparison of this DNS resolver against the local DNS resolver and Google's public DNS [here](https://github.com/parthskansara/DNS-Resolver/blob/main/compare.pdf)!
 
-## Source
+## Reference
 This project was completed as a part of the course CSE 534: Fundamentals of Computer Vision (Fall 2022) under [Prof. Aruna Balasubramanian](https://www.cs.stonybrook.edu/people/faculty/ArunaBalasubramanian) at Stony Brook University.
 
 
