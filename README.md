@@ -5,7 +5,7 @@
 * [Libraries used](#libraries-used)
 * [Run the project](#run-the-project)
 * [Performance](#performance)
-* [Source](#source)
+* [Reference](#reference)
 
 ## Introduction:
 Almost everything on the Internet involves DNS resolution. If DNS is slow, the
