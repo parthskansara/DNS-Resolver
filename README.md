@@ -1,4 +1,4 @@
-# DNS-Resolver
+# DomainHunter: DNS Resolver
 
 ## Table of Contents:
 * [Introduction](#introduction)
